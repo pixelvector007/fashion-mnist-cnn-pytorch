@@ -302,8 +302,12 @@ This project is part of my ongoing learning journey in **Machine Learning, Deep 
 
 ---
 
+<div align="center">
+
 ## Thanks for visiting! ⭐
 
 If you found this project useful, consider giving the repository a **star**.
 
 **Made with ❤️ while learning and building in Machine Learning, Deep Learning, and Artificial Intelligence.**
+
+</div>
