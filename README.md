@@ -272,18 +272,20 @@ Possible next steps:
 
 ---
 
-## Project Structure
+## 📁 Project Structure
 
 ```text
-computer-vision/
+computer-vision-pytorch/
 │
-├── computer_vision_model.ipynb
-├── helper_functions.py
 ├── models/
 │   └── pytorch_computer_vision_model_2.pth
-└── README.md
-```
+│
+├── .gitignore
+├── README.md
+├── helper_functions.py
+└── computer_vision_model.ipynb
 
+```
 ---
 
 ## Conclusion
